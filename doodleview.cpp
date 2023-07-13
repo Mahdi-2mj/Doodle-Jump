@@ -2,7 +2,6 @@
 #include "doodler.h"
 #include "platform.h"
 #include "random.h"
-
 #include <QIcon>
 #include <QPropertyAnimation>
 #include <QGraphicsBlurEffect>
