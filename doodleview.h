@@ -1,7 +1,5 @@
 #ifndef DOODLEVIEW_H
 #define DOODLEVIEW_H
-
-
 #include <QGraphicsView>
 #include <QTimer>
 #include "doodler.h"
