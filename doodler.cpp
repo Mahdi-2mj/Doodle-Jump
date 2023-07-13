@@ -5,7 +5,7 @@
 #include <QPainterPath>
 #include <QList>
 #include <QObject>
-#include <QTimer>
+#include <QTimer> 
 
 Doodler::Doodler()
 {
