@@ -10,7 +10,6 @@
 #include "doodleview.h"
 
 int main(int argc, char* argv[]) {
-
     QApplication  app(argc, argv);
     QPixmap pix(":/image/scr.jpg");
     QSplashScreen *splash = new QSplashScreen;
