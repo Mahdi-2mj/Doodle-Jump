@@ -8,7 +8,7 @@ Q_OBJECT
 public:
     Doodler();
     Doodler(int a);
-    QRectF boundingRect() const;
+    QRectF boundingRect()  const;
     void paint(QPainter *painter,
                const QStyleOptionGraphicsItem *option,
                QWidget *widget);
