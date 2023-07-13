@@ -9,7 +9,7 @@ SOURCES += \
 QT += widgets
 
 HEADERS += \
-    doodler.h \
+    doodler.h\
     platform.h \
     random.h \
     doodleview.h \
